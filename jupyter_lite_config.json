@@ -1,5 +1,6 @@
 {
+  "jupyter-lite-schema-version": 0,
   "contents": {
-    "content_url": "./content"
+    "content": "content"
   }
 }
